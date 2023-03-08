@@ -1,0 +1,86 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "Open Sans", sans-serif;
+    box-sizing: border-box;
+    color: #212529;
+    
+}
+
+#introduction{
+    height: 90vh;
+    width: 100%;
+    /* border: 1px solid black; */
+}
+
+h1{
+    font-weight: 600;
+    font-size: 3rem;
+}
+
+main h2{
+    font-size: 2rem;
+    font-weight: ;
+}
+
+.box{
+    height: 70%;
+    width: 80%;
+    /* border: 1px solid red; */
+}
+
+#profile{
+    border-radius: 50%;
+    border: solid 5px;
+    border-color: white white black black;
+    height: 250px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+.btn{
+    padding: 10px;
+}
+
+.carousel-item img{
+    height: 500px;
+}
+
+#email{
+    padding-left: 5px;
+}
+textarea{
+    padding-left: 5px;
+}
+
+.social{
+    padding-left: 60px;
+    padding-top: 25px;
+}
+
+svg{
+    margin-right: 10px;
+}
+
+.social-item{
+    display: block;
+    margin-bottom: 25px;
+}
+
+#social-accounts{
+    font-size: 18px;
+}
+
+footer{
+    margin-top: 40px;
+    height: 50vh;
+}
+
+footer h2{
+    text-align: center;
+}
+
